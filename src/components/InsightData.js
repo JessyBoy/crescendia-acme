@@ -33,6 +33,7 @@ function InsightData() {
         </div>
         <Carousel
           showDots={true}
+          autoPlay={true}
           infinite={true}
           removeArrowOnDeviceType={["tablet", "mobile"]}
           responsive={responsive}

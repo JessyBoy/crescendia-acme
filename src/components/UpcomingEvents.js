@@ -34,6 +34,7 @@ function UpcomingEvents() {
           <Carousel
             showDots={true}
             infinite={true}
+            autoPlay={true}
             removeArrowOnDeviceType={["tablet", "mobile"]}
             responsive={responsive}
           >
